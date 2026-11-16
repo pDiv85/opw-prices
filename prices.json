@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T10:15:00+08:00",
-  "fx": { "USD": 0, "IDR": 0, "CNY": 0 },
+  "updated_at": "2026-11-16T10:58:41+08:00",
+  "fx": { "USD": 4.0860, "IDR": 0.000226, "CNY": 0.6128 },
   "products": [
     { "code": "CPO", "name": "Crude Palm Oil (Local Delivered)",
       "market": "MY", "price_myr": 4154.50, "prev_myr": 4121.50,
@@ -20,6 +20,20 @@
     { "code": "RBDSTEARIN", "name": "RBD Palm Stearin (Local Delivered)",
       "market": "MY", "price_myr": 4157.00, "prev_myr": 4088.00,
       "as_at": "2026-11-11", "source": "MPOB" }
+  ],
+  "export_products": [
+    { "code": "RBDPO_FOB", "name": "RBD Palm Oil (FOB)",
+      "market": "MY", "price_usd": 1065.00, "prev_usd": 1087.50,
+      "as_at": "2026-11-05", "source": "MPOB" },
+    { "code": "RBDOLEIN_FOB", "name": "RBD Palm Olein (FOB)",
+      "market": "MY", "price_usd": 1068.00, "prev_usd": 1071.00,
+      "as_at": "2026-11-12", "source": "MPOB" },
+    { "code": "RBDSTEARIN_FOB", "name": "RBD Palm Stearin (FOB)",
+      "market": "MY", "price_usd": 1020.00, "prev_usd": 1015.00,
+      "as_at": "2026-11-12", "source": "MPOB" },
+    { "code": "PFAD_FOB", "name": "Palm Fatty Acid Distillate (FOB)",
+      "market": "MY", "price_usd": 997.50, "prev_usd": 997.50,
+      "as_at": "2026-11-04", "source": "MPOB" }
   ],
   "forecasts": []
 }
