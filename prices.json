@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-26T11:37:04+08:00",
+  "updated_at": "2026-11-27T09:41:33+08:00",
   "fx": {
-    "USD": 4.1175,
-    "IDR": 0.000225,
-    "CNY": 0.6169
+    "USD": 4.116,
+    "IDR": 0.000224,
+    "CNY": 0.618
   },
   "products": [
     {
       "code": "CPO",
       "name": "Crude Palm Oil (Local Delivered)",
       "market": "MY",
-      "price_myr": 3906.5,
-      "prev_myr": 3982.5,
-      "as_at": "2026-11-24",
+      "price_myr": 4007.0,
+      "prev_myr": 3906.5,
+      "as_at": "2026-11-25",
       "source": "MPOB"
     },
     {
       "code": "PK",
       "name": "Palm Kernel (Ex-Mill)",
       "market": "MY",
-      "price_myr": 2867.5,
-      "prev_myr": 2843.5,
-      "as_at": "2026-11-24",
+      "price_myr": 2920.0,
+      "prev_myr": 2867.5,
+      "as_at": "2026-11-25",
       "source": "MPOB"
     },
     {
@@ -46,18 +46,18 @@
       "code": "RBDOLEIN",
       "name": "RBD Palm Olein (Local Delivered)",
       "market": "MY",
-      "price_myr": 4222.5,
-      "prev_myr": 4199.5,
-      "as_at": "2026-11-24",
+      "price_myr": 4284.5,
+      "prev_myr": 4222.5,
+      "as_at": "2026-11-25",
       "source": "MPOB"
     },
     {
       "code": "RBDSTEARIN",
       "name": "RBD Palm Stearin (Local Delivered)",
       "market": "MY",
-      "price_myr": 3990.0,
-      "prev_myr": 3977.0,
-      "as_at": "2026-11-24",
+      "price_myr": 4071.5,
+      "prev_myr": 3990.0,
+      "as_at": "2026-11-25",
       "source": "MPOB"
     }
   ],
