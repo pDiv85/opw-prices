@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-27T09:41:33+08:00",
+  "updated_at": "2026-11-27T17:42:34+08:00",
   "fx": {
-    "USD": 4.116,
-    "IDR": 0.000224,
-    "CNY": 0.618
+    "USD": 4.1225,
+    "IDR": 0.000225,
+    "CNY": 0.6195
   },
   "products": [
     {
@@ -28,9 +28,9 @@
       "code": "CPKO",
       "name": "Crude Palm Kernel Oil (Local Delivered)",
       "market": "MY",
-      "price_myr": 6457.0,
-      "prev_myr": 6531.0,
-      "as_at": "2026-11-23",
+      "price_myr": 6529.5,
+      "prev_myr": 6457.0,
+      "as_at": "2026-11-25",
       "source": "MPOB"
     },
     {
